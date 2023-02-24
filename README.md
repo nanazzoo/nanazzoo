@@ -18,10 +18,13 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 
-</div>
+
 
 </br></br>
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanazzoo&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=nanazzoo&show_icons=true">
+
+
+</div>
